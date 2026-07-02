@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-07-02T03:55:47.949795289Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-07-02T03:58:09.053452750Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2286,13 +2286,13 @@
                 "description": ""
               },
               "signature": {
-                "title": "자연을 가장 가까이, 여유를 가장 온전히",
+                "title": "",
                 "images": [
                   {
                     "id": "6bac4674-5eea-4398-a3cd-b5fd56703dca",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_signature/1782963908648-8pr8j8p3ri.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "자연을 가장 가까이, 여유를 가장 온전히",
                     "isSelected": true,
                     "blockId": null
                   }
