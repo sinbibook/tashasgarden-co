@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-07-02T03:50:28.111935165Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-07-02T03:51:48.795270452Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2329,8 +2329,8 @@
                 ]
               },
               "notice": {
-                "title": "차량 : ",
-                "description": ""
+                "title": "",
+                "description": "지번 : 강원특별자치도 홍천군 서면 팔봉리 80\n도로명 : 강원특별자치도 홍천군 서면 팔봉강변길 229"
               }
             }
           ]
