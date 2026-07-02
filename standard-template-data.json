@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-07-02T03:14:24.758541869Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-07-02T03:16:05.086097930Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2220,7 +2220,7 @@
                 "description": "Stay Close To Every Season"
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [
                   {
                     "id": "bf0cd1cd-4308-4202-beaf-e3fef1c9052c",
