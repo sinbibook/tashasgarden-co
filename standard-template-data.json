@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-07-02T03:16:05.086097930Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-07-02T03:16:29.200344447Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2268,7 +2268,7 @@
                 "description": ""
               },
               "signature": {
-                "title": "",
+                "title": "자연을 가장 가까이, 여유를 가장 온전히.",
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
