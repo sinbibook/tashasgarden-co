@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.34.0",
-    "generatedAt": "2026-07-02T03:43:35.638769965Z",
+    "version": "1.35.0",
+    "generatedAt": "2026-07-02T03:45:11.570813675Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2227,7 +2227,7 @@
                   {
                     "id": "c870a9a2-239d-4901-8a5d-7db631b39730",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782963812775-jvze71x45q.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2235,7 +2235,7 @@
                   {
                     "id": "34363630-0e59-46d9-aae8-e099478a1bb8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782961397492-cy200gvitz.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2243,7 +2243,7 @@
                   {
                     "id": "fa3888e5-bc8e-4946-ba46-34755262be23",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782963812779-jqa30bya6c.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2302,13 +2302,13 @@
                 "description": ""
               },
               "signature": {
-                "title": "",
+                "title": "자연을 가장 가까이, 여유를 가장 온전히",
                 "images": [
                   {
-                    "id": "67660f90-15c2-4cb0-814f-37dc8b2cfe16",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_signature/1782962380950-3q17kqlkop.jpg",
+                    "id": "6bac4674-5eea-4398-a3cd-b5fd56703dca",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_signature/1782963908648-8pr8j8p3ri.jpg",
                     "sortOrder": 0,
-                    "description": "자연을 가장 가까이, 여유를 가장 온전히",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   }
