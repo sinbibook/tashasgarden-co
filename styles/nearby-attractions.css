@@ -339,6 +339,13 @@ color-mix(in srgb, var(--color-secondary) 70%, transparent);
     z-index: 1;
 }
 
+/* Desktop 전용 parallax (모바일에선 background-attachment: fixed가 깨지므로 데스크톱에서만 적용) */
+@media (min-width: 769px) {
+    .attractions-closing-bg {
+        background-attachment: fixed;
+    }
+}
+
 .attractions-closing-overlay {
     position: absolute;
     top: 0;
