@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-07-02T03:03:19.996734306Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-07-02T03:10:14.665466727Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -1417,7 +1417,48 @@
               },
               "gallery": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "bf0cd1cd-4308-4202-beaf-e3fef1c9052c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_gallery/1782961812025-dhatg9qjlh.jpg",
+                    "sortOrder": 0,
+                    "description": "잔잔한 풍경",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "695e5878-0f03-4e8e-a2e7-f12905828568",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_gallery/1782961812039-dzea4b4pg2.jpg",
+                    "sortOrder": 1,
+                    "description": "따뜻한 온기",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "a2d5f190-bcf1-4828-a259-ac9097931f30",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_gallery/1782961812030-yang7b2r8p.jpg",
+                    "sortOrder": 2,
+                    "description": "시원한 햇살 속 휴식",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "38098cd3-e790-44f5-8a39-2e54e64ae106",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_gallery/1782961812035-4hbpwx4tx7.jpg",
+                    "sortOrder": 3,
+                    "description": "힐링",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "ab44cf1c-2e0b-4643-af5d-9702b8ac0b20",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_gallery/1782961812117-wsndyzsu5l.jpg",
+                    "sortOrder": 4,
+                    "description": "사계절 정원",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
