@@ -4,15 +4,15 @@
 
 /* Font Faces */
 @font-face {
-  font-family: 'GyeonggiMillenniumBackground';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff') format('woff');
+  font-family: 'ReperepointSpecialItalic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-SpecialItalicA.woff') format('woff');
   font-weight: 400;
   font-display: swap;
 }
 
 /* CSS Variables */
 :root {
-  --font-ko-main: 'GyeonggiMillenniumBackground', sans-serif;
+  --font-ko-main: 'ReperepointSpecialItalic', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
   --font-en-main: 'Chonburi', sans-serif;
   --color-primary: #FFFFFF;
