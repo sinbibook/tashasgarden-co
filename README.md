@@ -1,1 +1,1 @@
-# tashasgarden-co
+# template-full-banner-slider-flat Template
