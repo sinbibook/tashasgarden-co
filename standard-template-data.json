@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.54.0",
-    "generatedAt": "2026-07-02T05:23:30.224354744Z",
+    "version": "1.55.0",
+    "generatedAt": "2026-07-02T05:42:19.786742497Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -66,6 +66,47 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "3fb424f5-063f-4612-bbd9-86d20220bc35",
+        "name": "리버뷰",
+        "description": "잔잔하게 흐르는 강을 바라보며\n편안한 쉼의 순간을 느껴보세요.",
+        "usageGuide": " ",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "8ece152a-e6a4-41f8-9018-6b62add4933a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3fb424f5-063f-4612-bbd9-86d20220bc35/main/1782970069211-2fodxu5j3r.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3c87c836-dea1-4ccb-9574-82578906ab31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3fb424f5-063f-4612-bbd9-86d20220bc35/main/1782970069226-i4yw5243a6.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0a2b27ed-02a5-4476-be29-4998e005eee8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3fb424f5-063f-4612-bbd9-86d20220bc35/main/1782970069284-e9jgbheejr.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7a15c058-28f0-48df-a24a-6191db9d87af",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3fb424f5-063f-4612-bbd9-86d20220bc35/main/1782970069202-gbo1xpw5zv.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "bf386c82-7837-4297-8386-3734ffa65f08",
         "name": "홍천강",
@@ -230,6 +271,39 @@
         ]
       },
       {
+        "id": "ad1cdf87-08e4-4e06-983c-f4129500806a",
+        "name": "월풀스파",
+        "description": "따뜻한 물에 몸을 맡기며\n하루의 피로를 천천히 풀어내는 시간을 가져보세요.\n잔잔한 온기 속에서 깊은 휴식을 느낄 수 있습니다.",
+        "usageGuide": "- 이용 객실: 유메/로코코\n- 스파 형태: 월풀스파\n- 수용 인원: 2인\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n- 온도 조절: 가능\n- 입욕제 사용: 가능",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "b56e265f-5f5e-4cc0-81ba-1e73fd3b6087",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad1cdf87-08e4-4e06-983c-f4129500806a/main/1782970051513-0pz5prs2b4.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "733a0d95-c18f-444b-91f8-ffc042b46225",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad1cdf87-08e4-4e06-983c-f4129500806a/main/1782970051508-ekuhmfxjap.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1fcb685c-873b-4bbc-bcce-396a8e0cda7d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad1cdf87-08e4-4e06-983c-f4129500806a/main/1782970051516-hwhthizgfp.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "e7617d79-6da6-42bd-817d-bdd3011b53a0",
         "name": "공용휴게실",
         "description": "여행의 여유를 나누며\n편안한 휴식이 이어지는 공간입니다.",
@@ -263,6 +337,47 @@
           {
             "id": "bb154b11-bdbb-47a9-93ae-5e572dd087ce",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e7617d79-6da6-42bd-817d-bdd3011b53a0/main/1782957801865-fp4yoeifeu.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "0ce3d082-8fb9-4ada-82db-e2a009719339",
+        "name": "편의 및 주변 시설",
+        "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.",
+        "usageGuide": "- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 미보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ 디즈니+, 티빙 이용 가능\n※ OTT 개인계정 필요",
+        "displayOrder": 7,
+        "images": [
+          {
+            "id": "7b6e1a86-50a5-43a2-af5a-dc40004d1718",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ce3d082-8fb9-4ada-82db-e2a009719339/main/1782957852169-ie0a99vbsk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4864cd00-59b1-4e20-a2ad-41cd4361f6c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ce3d082-8fb9-4ada-82db-e2a009719339/main/1782957852160-43tu1o84w3.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "47e55f1a-2dd9-489f-8521-7fa2c4e6978a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ce3d082-8fb9-4ada-82db-e2a009719339/main/1782957852158-5yfqyct1qa.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3bad7f79-d9f4-4488-a46d-668143703ccb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ce3d082-8fb9-4ada-82db-e2a009719339/main/1782957852173-bpx78orccv.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
@@ -2531,9 +2646,9 @@
         "font": {
           "koMain": {
             "cdn": null,
-            "key": "gyeonggimillenniumbackground",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
-            "family": "GyeonggiMillenniumBackground"
+            "key": "reperepointspecialitalic",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-SpecialItalicA.woff",
+            "family": "ReperepointSpecialItalic"
           },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
