@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.44.0",
-    "generatedAt": "2026-07-02T03:58:09.053452750Z",
+    "version": "1.45.0",
+    "generatedAt": "2026-07-02T04:00:40.693283360Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -70,7 +70,7 @@
         "id": "bf386c82-7837-4297-8386-3734ffa65f08",
         "name": "홍천강",
         "description": "맑은 강변을 따라 걷고 머물며\n계절이 전하는 여유를 온전히 즐겨보세요.",
-        "usageGuide": "맑은 강변을 따라 걷고 머물며\n계절이 전하는 여유를 온전히 즐겨보세요.",
+        "usageGuide": " ",
         "displayOrder": 1,
         "images": [
           {
