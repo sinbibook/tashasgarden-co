@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-07-02T03:45:11.570813675Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-07-02T03:45:37.024777928Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2217,25 +2217,9 @@
                 "title": "꽃이 피고 바람이 머무는 정원, 그리고 자연이 이어지는 풍경 속에서 몸과 마음 모두 편안해지는 시간을 만나보세요. 계절의 변화와 함께하는 하루가 여행의 순간을 더욱 깊고 소중하게 채워드립니다.",
                 "images": [
                   {
-                    "id": "bce20acf-53a2-4a92-a4a2-6cb925f6f68a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782961396999-fyl7rqdl72.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "c870a9a2-239d-4901-8a5d-7db631b39730",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782963812775-jvze71x45q.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "34363630-0e59-46d9-aae8-e099478a1bb8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782961397492-cy200gvitz.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2243,7 +2227,7 @@
                   {
                     "id": "fa3888e5-bc8e-4946-ba46-34755262be23",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782963812779-jqa30bya6c.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
