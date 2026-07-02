@@ -233,6 +233,13 @@
     z-index: 1;
 }
 
+/* Desktop 전용 parallax (모바일에선 background-attachment: fixed가 깨지므로 데스크톱에서만 적용) */
+@media (min-width: 769px) {
+    .layout-closing-bg {
+        background-attachment: fixed;
+    }
+}
+
 .layout-closing-overlay {
     position: absolute;
     top: 0;
