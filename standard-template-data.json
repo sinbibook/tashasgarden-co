@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-07-02T03:37:17.839470857Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-07-02T03:43:35.638769965Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2081,7 +2081,16 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "39766d09-ec29-435f-a72b-f47ac32c9eaa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/logo/1782963812780-zdoxt0jqhd.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
@@ -2216,8 +2225,24 @@
                     "blockId": null
                   },
                   {
+                    "id": "c870a9a2-239d-4901-8a5d-7db631b39730",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782963812775-jvze71x45q.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "34363630-0e59-46d9-aae8-e099478a1bb8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782961397492-cy200gvitz.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "fa3888e5-bc8e-4946-ba46-34755262be23",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_essence/1782963812779-jqa30bya6c.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
