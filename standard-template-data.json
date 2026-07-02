@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-07-02T03:10:14.665466727Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-07-02T03:11:37.671214925Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -1438,7 +1438,7 @@
                     "id": "a2d5f190-bcf1-4828-a259-ac9097931f30",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/index_gallery/1782961812030-yang7b2r8p.jpg",
                     "sortOrder": 2,
-                    "description": "시원한 햇살 속 휴식",
+                    "description": "청량한 여름",
                     "isSelected": true,
                     "blockId": null
                   },
