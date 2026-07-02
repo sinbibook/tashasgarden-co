@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-07-02T02:38:24.713424413Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-07-02T02:38:52.379665518Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "1541560d-0910-4b1b-902f-f710728b74af",
     "homepageId": "70e50d68-c9fd-43a8-ad26-acd8591663df"
@@ -2196,9 +2196,9 @@
               "category": "roomtype_exterior"
             },
             {
-              "id": "6e33b5cf-9298-4b0e-95d1-c7b9be34d5ed",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/roomtype_exterior/1782959902128-ht0rz4lm2o.jpg",
-              "sortOrder": 13,
+              "id": "d000eaab-d174-4508-a8c1-a967738228aa",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/roomtype_exterior/1782959930143-1lh4ebf1by.jpg",
+              "sortOrder": 12,
               "description": "",
               "isSelected": true,
               "blockId": "a65ab062-d213-40e7-98a3-5d5c8727a287",
@@ -2207,6 +2207,15 @@
             {
               "id": "cc70c09c-6772-41c7-9f7a-d17ee250a147",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/roomtype_exterior/1782959902133-5xboke8rdc.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "a65ab062-d213-40e7-98a3-5d5c8727a287",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "6e33b5cf-9298-4b0e-95d1-c7b9be34d5ed",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/70e50d68-c9fd-43a8-ad26-acd8591663df/roomtype_exterior/1782959902128-ht0rz4lm2o.jpg",
               "sortOrder": 14,
               "description": "",
               "isSelected": true,
